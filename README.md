@@ -8,3 +8,14 @@
 - **Email**: sergofiles-16@mail.ru
 - **Telegram**: @Mich_off
   
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SerMichbboy&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerMichbboy&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SerMichbboy&theme=radical)
+
+![Progress](https://progress-bar.dev/75/?title=Progress)
+
+![Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,py,django)
+
