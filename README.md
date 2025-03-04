@@ -9,7 +9,7 @@
 
 ![Skills](https://skillicons.dev/icons?i=py)
 
-## contact___________________📫:
 
+contact_📫:
 - **Email**: sergofiles-16@mail.ru
 - **Telegram**: @Mich_off
