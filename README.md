@@ -13,9 +13,5 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerMichbboy&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SerMichbboy&theme=radical)
-
-![Progress](https://progress-bar.dev/75/?title=Progress)
-
-![Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,py,django)
+![Skills](https://skillicons.dev/icons?i=py)
 
