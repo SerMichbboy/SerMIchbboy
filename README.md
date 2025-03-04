@@ -10,6 +10,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerMichbboy&layout=compact&theme=radical)            
 
 
-### contacts📫:
+### Contacts📫:
 - **Email**: sergofiles-16@mail.ru
 - **Telegram**: @Mich_off
