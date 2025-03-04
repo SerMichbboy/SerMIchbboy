@@ -9,9 +9,7 @@
 - **Telegram**: @Mich_off
   
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SerMichbboy&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerMichbboy&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SerMichbboy&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerMichbboy&layout=compact&theme=radical)
 
 ![Skills](https://skillicons.dev/icons?i=py)
 
