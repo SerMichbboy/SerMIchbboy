@@ -7,5 +7,6 @@
 
 ---
 
-**Email**: sergofiles-16@mail.ru
-**Telegram**: Mich_off
+- **Email**: sergofiles-16@mail.ru
+
+- **Telegram**: @Mich_off
